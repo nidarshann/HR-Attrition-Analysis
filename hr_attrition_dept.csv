@@ -1,0 +1,4 @@
+Department,TotalEmployees,TotalAttrited,AttritionRate,AvgMonthlyIncome,AvgAge,AvgTenure,AvgJobSat,OvertimeCount,ActiveEmployees
+Human Resources,241,24,0.0996,6041,36.7,6.6,2.56,75,217
+Research & Development,768,110,0.1432,5745,37.3,6.5,2.6,223,658
+Sales,461,51,0.1106,5730,36.0,6.7,2.61,104,410

@@ -1,0 +1,11 @@
+JobRole,Department,TotalEmployees,TotalAttrited,AttritionRate,AvgMonthlyIncome,AvgJobSat,AvgTenure,ActiveEmployees
+Research Scientist,Research & Development,137,22,0.1606,5697,2.55,6.1,115
+Laboratory Technician,Research & Development,139,21,0.1511,5474,2.6,6.9,118
+Manufacturing Director,Research & Development,156,23,0.1474,5911,2.67,6.6,133
+Manager,Research & Development,172,23,0.1337,5700,2.58,6.3,149
+Sales Executive,Sales,151,20,0.1325,5812,2.63,7.3,131
+Healthcare Representative,Research & Development,164,21,0.128,5901,2.61,6.7,143
+Manager,Sales,154,17,0.1104,5857,2.62,6.1,137
+Manager,Human Resources,121,13,0.1074,6063,2.5,6.5,108
+Human Resources,Human Resources,120,11,0.0917,6018,2.63,6.7,109
+Sales Representative,Sales,156,14,0.0897,5526,2.59,6.7,142

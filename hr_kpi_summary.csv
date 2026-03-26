@@ -1,0 +1,15 @@
+KPI,Value,Category
+Total Employees,1470.0,Headcount
+Total Attrited,185.0,Headcount
+Active Employees,1285.0,Headcount
+Attrition Rate (%),12.59,Attrition
+Avg Monthly Income (₹),5788.0,Compensation
+Avg Age (yrs),36.8,Demographics
+Avg Tenure (yrs),6.6,Tenure
+Overtime Rate (%),27.35,OverTime
+OT Attrition Rate (%),19.65,OverTime
+Non-OT Attrition Rate (%),9.93,OverTime
+High Risk Employees,140.0,Risk
+Avg Job Satisfaction,2.6,Engagement
+Avg Work-Life Balance,2.78,Engagement
+Avg Env Satisfaction,2.67,Engagement

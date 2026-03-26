@@ -1,0 +1,11 @@
+RiskFactor,AttritionRate,AffectedCount,Category,OverallAttritionRate,RateVsAvg,RiskLevel
+OverTime = Yes,0.1965,402,Workload,0.1259,0.0706,High
+Tenure 0-2 yrs,0.1534,489,Tenure,0.1259,0.0275,Medium
+Work-Life Balance 1-2,0.1516,521,Engagement,0.1259,0.0257,Medium
+Job Satisfaction 1-2,0.1515,660,Engagement,0.1259,0.0256,Medium
+Frequent Travel,0.1513,238,Travel,0.1259,0.0254,Medium
+Marital = Single,0.1483,472,Personal,0.1259,0.0224,Medium
+No Stock Options,0.1453,702,Compensation,0.1259,0.0194,Medium
+Env Satisfaction 1-2,0.1311,633,Engagement,0.1259,0.0052,Medium
+Distance > 15km,0.123,252,Commute,0.1259,-0.0029,Low
+Job Level 1,0.1221,385,Career,0.1259,-0.0038,Low
